@@ -1,2 +1,2 @@
 # Custom Model Manager & Model QuerySet in Django Tutorial
-©CodeWith Me https://www.youtube.com/c/CodeWithMeh
+©Code Band https://www.youtube.com/CodeBand
